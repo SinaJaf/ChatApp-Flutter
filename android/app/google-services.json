@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "935952793651",
+    "project_id": "chatapp-cf4d6",
+    "storage_bucket": "chatapp-cf4d6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:935952793651:android:e271055e5c179333756346",
+        "android_client_info": {
+          "package_name": "com.example.chatapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfsrFhkvO6iE7beoJYFYatfW1JK5bJJdY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:935952793651:android:d39eca573ca3e98b756346",
+        "android_client_info": {
+          "package_name": "com.theJaj.chatapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfsrFhkvO6iE7beoJYFYatfW1JK5bJJdY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
